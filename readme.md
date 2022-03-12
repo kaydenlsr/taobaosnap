@@ -113,11 +113,11 @@ Quick Start
 3. Download the chrome browser and the corresponding chromedriver and place them in the python.exe directory.
 The project provides chromedriver version = 99.0.4844.51
 
-4. run cmd and run ' python taobaosnap.py --interval [time interval] --time [Starting time] -l [frequency] '
+4. run cmd and run ' python taobaosnap.py --interval [time interval] --time [Starting time] --l [frequency] '
 
    Example:
 
-$ python taobaosnap.py --interval 0.1 --time 15:59:59:90000000 -l 5
+$ python taobaosnap.py --interval 0.1 --time 15:59:59:90000000 --l 5
 
    Help:
 
