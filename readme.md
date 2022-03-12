@@ -12,7 +12,7 @@ Python (http://www.python.org)
 
 NOTE: For precautions please refer to the guide at the link below
 
-    https://kaydenlsr.coding.net/public/taobaosnap/taobaosnap/git/files/master/readmd.md
+    https://kaydenlsr.coding.net/public/taobaosnap/taobaosnap/git/files/master/readme.md
 
 Compatibility
 Windows:
