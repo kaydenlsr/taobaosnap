@@ -1,9 +1,9 @@
 #Taobaosnap
 
 =================================================<br>
-<h1>Taobaosnap script - Taobao panic buying script</h1><br>
+<b>Taobaosnap script - Taobao panic buying script</b><br>
 =================================================<br>
-Author 仰望·星空、K龙、Charles<br>
+<b>Author 仰望·星空、K龙、Charles</b><br>
 =================================================<br>
 
 ##Taobaosnap
