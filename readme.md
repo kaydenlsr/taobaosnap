@@ -1,6 +1,11 @@
+#Taobaosnap
+
 =================================================<br>
 Taobaosnap script - Taobao panic buying script<br>
 =================================================<br>
+Author 仰望·星空、K龙、Charles<br>
+=================================================<br>
+
 ##Taobaosnap
 Taobaosnap is a completely open tool, which is used to buy goods in seconds on Taobao. This is a project created with python, using selenium and requests module to achieve login and snap-up. The project integrates network script ideas and improves them, using selenium to realize remote login and login verification problems. Use requests for snapping without rendering, reducing the time required for access and snapping. Use the countdown idea to realize automatic snapping when the time is up. The number of times of use is set, which is convenient for reading and analyzing the program log after the snap-up is over.(This description is for versions higher than 3.1.5)
 
