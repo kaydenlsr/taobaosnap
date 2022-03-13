@@ -248,6 +248,7 @@ Enter as prompted:
         --time        Buying time and format: 00:00:00:00000000.
         --interval    Buying time interval.
         --l           Buying frequency.
+        
 About version
 =============
 2022.3.12 by K龙 version=3.1.5(windows,linux,mac)
