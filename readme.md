@@ -1,6 +1,6 @@
-=================================================
-Taobaosnap script - Taobao panic buying script
-=================================================
+=================================================<br>
+Taobaosnap script - Taobao panic buying script<br>
+=================================================<br>
 
 Taobaosnap is a completely open tool, which is used to buy goods in seconds on Taobao. This is a project created with python, using selenium and requests module to achieve login and snap-up. The project integrates network script ideas and improves them, using selenium to realize remote login and login verification problems. Use requests for snapping without rendering, reducing the time required for access and snapping. Use the countdown idea to realize automatic snapping when the time is up. The number of times of use is set, which is convenient for reading and analyzing the program log after the snap-up is over.(This description is for versions higher than 3.1.5)
 
@@ -16,69 +16,69 @@ NOTE: For precautions please refer to the guide at the link below
 
 =================================================
 Compatibility(version=1.1.15,2.1.5,3.1.5)
-Windows:
-Windows 95
-Windows 98
-Windows ME
-Windows 2000
-Windows 2003
-Windows XP
-Windows Vista
-Windows 7
-Windows 8
-Windows 8.1
-Windows 10
-Server version:
-WindowsServer2003
-WindowsServer2008
-WindowsServer2012
-WindowsServer2016
-Mobile Edition:
-WindowsMobile
-WindowsPhone
-Windows10Mobile
+Windows:<br>
+Windows 95<br>
+Windows 98<br>
+Windows ME<br>
+Windows 2000<br>
+Windows 2003<br>
+Windows XP<br>
+Windows Vista<br>
+Windows 7<br>
+Windows 8<br>
+Windows 8.1<br>
+Windows 10<br>
+Server version:<br>
+WindowsServer2003<br>
+WindowsServer2008<br>
+WindowsServer2012<br>
+WindowsServer2016<br>
+Mobile Edition:<br>
+WindowsMobile<br>
+WindowsPhone<br>
+Windows10Mobile<br>
 
 Compatibility(version=1.1.15,3.3.5-linux)
-Asianux4
-Asianux Server 3
-Centos 8 64-bit
-Centos5 and earlier 64-bit centos5 and later
-Debian 5/6/7.x/8.x/9.x/10.x
-Fedora
-Mardriva Linux
-Novell Linux Desktop 9
-OpenSUSE
-Oracle Linux 6/7/8
-Oracle Linux 5 earlier 64-bit centos5 and later
-Red Hat Enterprise Linux 2/3/4/5/6/7/8
-Sun Java Desktop System
-SUSE Linux Enterprise 7/8/9/10/11/12/15
-ITurbolinux 64-bit
-ubuntu 64 bit ubuntu
-Mware Photon Os 64-bit Other Linux 5. Kernel 64-bit Other Linux 5.x Kernel
-Other Linux 4.x Kernels 64-bit Other Linux 4.x Kernels
-Other Linux 3.x Kernel 64-bit Other Linux 3.x Kernel
-Other Linux 2.6.x Kernel 64-bit Other Linux 2.6.x Kernel
-Other Lirux 2.4.x Kernel 64-bit Kei He Linux 2.4.x Kernel
-Other Linux 2.2.x kernel pensUSE 64 bit
+Asianux4<br>
+Asianux Server 3<br>
+Centos 8 64-bit<br>
+Centos5 and earlier 64-bit centos5 and later<br>
+Debian 5/6/7.x/8.x/9.x/10.x<br>
+Fedora<br>
+Mardriva Linux<br>
+Novell Linux Desktop 9<br>
+OpenSUSE<br>
+Oracle Linux 6/7/8<br>
+Oracle Linux 5 earlier 64-bit centos5 and later<br>
+Red Hat Enterprise Linux 2/3/4/5/6/7/8<br>
+Sun Java Desktop System<br>
+SUSE Linux Enterprise 7/8/9/10/11/12/15<br>
+ITurbolinux 64-bit<br>
+ubuntu 64 bit ubuntu<br>
+Mware Photon Os 64-bit Other Linux 5. Kernel 64-bit Other Linux 5.x Kernel<br>
+Other Linux 4.x Kernels 64-bit Other Linux 4.x Kernels<br>
+Other Linux 3.x Kernel 64-bit Other Linux 3.x Kernel<br>
+Other Linux 2.6.x Kernel 64-bit Other Linux 2.6.x Kernel<br>
+Other Lirux 2.4.x Kernel 64-bit Kei He Linux 2.4.x Kernel<br>
+Other Linux 2.2.x kernel pensUSE 64 bit<br>
 
-macOS Big Sur
-macOS Catalina
-macOS Mojave
-macOS High Sierra
-macOS Sierra
-OS X El Capitan
-OS X Yosemite
-OS X Mavericks
-OS X Mountain Lion
-OS X Lion
-Mac OS X Snow Leopard
-Mac OS X Leopard
-Mac OS X Tiger
-Mac OS X Panther
-Mac OS X Jaguar
-Mac OS X Puma
-Mac OS X Cheetah
+macOS Big Sur<br>
+macOS Catalina<br>
+macOS Mojave<br>
+macOS High Sierra<br>
+macOS Sierra<br>
+OS X El Capitan<br>
+OS X Yosemite<br>
+OS X Mavericks<br>
+OS X Mountain Lion<br>
+OS X Lion<br>
+Mac OS X Snow Leopard<br>
+Mac OS X Leopard<br>
+Mac OS X Tiger<br>
+Mac OS X Panther<br>
+Mac OS X Jaguar<br>
+Mac OS X Puma<br>
+Mac OS X Cheetah<br>
 
 Note: This solution is currently not compatible with linux systems and mac systems
 
