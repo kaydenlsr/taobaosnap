@@ -15,7 +15,7 @@ NOTE: For precautions please refer to the guide at the link below
     https://kaydenlsr.coding.net/public/taobaosnap/taobaosnap/git/files/master/readme.md
 
 
-###Compatibility(version=1.1.15,2.1.5,3.1.5)
+##Compatibility(version=1.1.15,2.1.5,3.1.5)
 Windows:<br>
 Windows 95<br>
 Windows 98<br>
