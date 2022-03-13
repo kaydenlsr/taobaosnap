@@ -251,12 +251,12 @@ Enter as prompted:
         
 About version
 =============
-2022.3.12 by K龙 version=3.1.5(windows,linux,mac)
-2022.3.13 by K龙 version=1.0.5(windows)
-2022.3.13 by K龙 version=2.0.3(windows)
-2022.3.13 by K龙 version=3.2.5(windows)
-2022.3.13 by K龙 version=3.3.5-linux(linux)
-Last update 2022.3.13 13:25 by K龙 version=3.3.5-linux(linux)
+2022.3.12 by K龙 version=3.1.5(windows,linux,mac)<br>
+2022.3.13 by K龙 version=1.0.5(windows)<br>
+2022.3.13 by K龙 version=2.0.3(windows)<br>
+2022.3.13 by K龙 version=3.2.5(windows)<br>
+2022.3.13 by K龙 version=3.3.5-linux(linux)<br>
+Last update 2022.3.13 13:25 by K龙 version=3.3.5-linux(linux)<br>
 
 Release Notes
 =============
